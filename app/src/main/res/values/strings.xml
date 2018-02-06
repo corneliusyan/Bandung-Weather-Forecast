@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bandung Weather Forecasts</string>
+    <string name="temperature">This is temperature.</string>
+    <string name="weather">This is weather.</string>
+    <string name="image">This is image.</string>
+    <string name="date">This is date.</string>
+
+</resources>
